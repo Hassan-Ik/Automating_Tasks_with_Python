@@ -5,3 +5,15 @@ numpy
 pandas
 pytube
 moviepy
+camelot-py
+seaborn
+opencv-python
+pdfminer.six
+spacy
+kdmt
+scikit-learn
+pytesseract
+poppdf
+regex
+pillow
+gensim==3.8.3
